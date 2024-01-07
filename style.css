@@ -223,7 +223,7 @@ section {
 
 .section__text__p2 {
   font-size: 1.75rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .title {
@@ -250,6 +250,7 @@ section {
 .btn_container {
   display: flex;
   justify-content: center;
+  margin-top: 1rem;
   gap: 1rem;
 }
 
@@ -301,7 +302,7 @@ section {
 
 .about-containers {
   gap: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
   margin-top: 2rem;
 }
 
@@ -371,7 +372,7 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 article {
